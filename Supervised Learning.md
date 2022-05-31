@@ -1,3 +1,5 @@
+# Supervised Learning
+
 - **Basic description:**
 
 **Input**: $n$ observations and responses $(x_1, y_1),...,(x_n,y_n) \in \mathcal{X} \times \mathcal{Y}$.

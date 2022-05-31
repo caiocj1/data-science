@@ -1,3 +1,4 @@
+# Perceptron
 ### Rosenblatt's Perceptron Algorithm
 - [[Supervised Learning]] method designed for binary #classification $\newcommand{\resps}{\mathcal{Y}} \resps = \{-1, 1\}$.
 - Models directly the separating hyperplane:

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5e207048776c4d31",
+        "id": "976a8c85ef6cb9a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nearest Neighbor Search.md",
+            "file": "Perceptron.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#classification",
+                "query": "tag:#clustering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nearest Neighbor Search.md",
+                "file": "Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,13 +105,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5e207048776c4d31",
+  "active": "976a8c85ef6cb9a6",
   "lastOpenFiles": [
-    "Nearest Neighbor Search.md",
     "Perceptron.md",
-    "kNN-classifiers.md",
     "k-means.md",
     "Supervised Learning.md",
+    "Nearest Neighbor Search.md",
+    "kNN-classifiers.md",
+    "kd-trees.md",
+    "README.md",
     "img/approx_power.png"
   ]
 }
