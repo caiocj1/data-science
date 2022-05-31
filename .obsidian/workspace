@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "8fda5358879c8838",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e207048776c4d31",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Nearest Neighbor Search.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b14046899387a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "77076130353905dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da89dc39683a037",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52789fe799412980",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#classification",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f19d41ca4178cfb6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3c25167bd57ec71",
+    "type": "split",
+    "children": [
+      {
+        "id": "1828efbf88f0c4c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e69896f168ec564",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nearest Neighbor Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e2b5b46436491ab8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5e207048776c4d31",
+  "lastOpenFiles": [
+    "Nearest Neighbor Search.md",
+    "Perceptron.md",
+    "kNN-classifiers.md",
+    "k-means.md",
+    "Supervised Learning.md",
+    "img/approx_power.png"
+  ]
+}
